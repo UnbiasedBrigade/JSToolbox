@@ -1,0 +1,6 @@
+var variable_name = "value"; //creates a variable
+
+var Function = function(){
+	//some code
+}; //creates a function
+
