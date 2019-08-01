@@ -4,7 +4,7 @@ var queryEls = document.getElementsByClassName("ClassName"); //creates a variabl
 
 var idEl = document.getElementById("your-ID"); // creates a variable 'idEl' from an HTML id 'your-ID'
 
-var tagEls = document.getElementByTagName("p"); // creates a variable 'tagEls' from the HTML tag 'h1'
+var tagEls = document.getElementByTagName("p"); // creates a variable 'tagEls' from the HTML tag 'p'
 
 queryEl.innerHTML = "Replace this for the query"; /*replaces queryEl's value with 'Replace this fore the query'if there is only one
 Element selected by the query */
